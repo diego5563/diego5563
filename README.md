@@ -29,7 +29,7 @@ Diego</a></h1>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-    <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47nw3gx1aedw20f57ifb5thrama6s1vxtlq5vek8wg&ep=v1_gifs_related&rid=giphy.gif&ct=g)">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47nw3gx1aedw20f57ifb5thrama6s1vxtlq5vek8wg&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 </a>
 
